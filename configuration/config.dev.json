@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "root",
+    "database": "nodeTest",
+    "dbPort": 3306,
+    "jwtSecret": "wow"
+}
